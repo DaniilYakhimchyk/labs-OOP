@@ -1,0 +1,14 @@
+D:\ОАП\1 Лаба\кортежи\кортежи\bin\Debug\netcoreapp3.1\кортежи.exe
+D:\ОАП\1 Лаба\кортежи\кортежи\bin\Debug\netcoreapp3.1\кортежи.deps.json
+D:\ОАП\1 Лаба\кортежи\кортежи\bin\Debug\netcoreapp3.1\кортежи.runtimeconfig.json
+D:\ОАП\1 Лаба\кортежи\кортежи\bin\Debug\netcoreapp3.1\кортежи.runtimeconfig.dev.json
+D:\ОАП\1 Лаба\кортежи\кортежи\bin\Debug\netcoreapp3.1\кортежи.dll
+D:\ОАП\1 Лаба\кортежи\кортежи\bin\Debug\netcoreapp3.1\кортежи.pdb
+D:\ОАП\1 Лаба\кортежи\кортежи\obj\Debug\netcoreapp3.1\кортежи.csproj.AssemblyReference.cache
+D:\ОАП\1 Лаба\кортежи\кортежи\obj\Debug\netcoreapp3.1\кортежи.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОАП\1 Лаба\кортежи\кортежи\obj\Debug\netcoreapp3.1\кортежи.AssemblyInfoInputs.cache
+D:\ОАП\1 Лаба\кортежи\кортежи\obj\Debug\netcoreapp3.1\кортежи.AssemblyInfo.cs
+D:\ОАП\1 Лаба\кортежи\кортежи\obj\Debug\netcoreapp3.1\кортежи.csproj.CoreCompileInputs.cache
+D:\ОАП\1 Лаба\кортежи\кортежи\obj\Debug\netcoreapp3.1\кортежи.dll
+D:\ОАП\1 Лаба\кортежи\кортежи\obj\Debug\netcoreapp3.1\кортежи.pdb
+D:\ОАП\1 Лаба\кортежи\кортежи\obj\Debug\netcoreapp3.1\кортежи.genruntimeconfig.cache

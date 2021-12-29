@@ -1,0 +1,13 @@
+D:\ПроектыКЯР\ООП\ЛАБЫ\Laba4Var8\Laba4Var8\bin\Debug\netcoreapp3.1\Laba4Var8.exe
+D:\ПроектыКЯР\ООП\ЛАБЫ\Laba4Var8\Laba4Var8\bin\Debug\netcoreapp3.1\Laba4Var8.deps.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Laba4Var8\Laba4Var8\bin\Debug\netcoreapp3.1\Laba4Var8.runtimeconfig.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Laba4Var8\Laba4Var8\bin\Debug\netcoreapp3.1\Laba4Var8.runtimeconfig.dev.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Laba4Var8\Laba4Var8\bin\Debug\netcoreapp3.1\Laba4Var8.dll
+D:\ПроектыКЯР\ООП\ЛАБЫ\Laba4Var8\Laba4Var8\bin\Debug\netcoreapp3.1\Laba4Var8.pdb
+D:\ПроектыКЯР\ООП\ЛАБЫ\Laba4Var8\Laba4Var8\obj\Debug\netcoreapp3.1\Laba4Var8.csprojAssemblyReference.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Laba4Var8\Laba4Var8\obj\Debug\netcoreapp3.1\Laba4Var8.AssemblyInfoInputs.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Laba4Var8\Laba4Var8\obj\Debug\netcoreapp3.1\Laba4Var8.AssemblyInfo.cs
+D:\ПроектыКЯР\ООП\ЛАБЫ\Laba4Var8\Laba4Var8\obj\Debug\netcoreapp3.1\Laba4Var8.csproj.CoreCompileInputs.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Laba4Var8\Laba4Var8\obj\Debug\netcoreapp3.1\Laba4Var8.dll
+D:\ПроектыКЯР\ООП\ЛАБЫ\Laba4Var8\Laba4Var8\obj\Debug\netcoreapp3.1\Laba4Var8.pdb
+D:\ПроектыКЯР\ООП\ЛАБЫ\Laba4Var8\Laba4Var8\obj\Debug\netcoreapp3.1\Laba4Var8.genruntimeconfig.cache

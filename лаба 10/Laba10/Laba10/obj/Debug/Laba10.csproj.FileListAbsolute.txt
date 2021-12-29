@@ -1,0 +1,12 @@
+D:\Учеба\2 курс\ООП\лаба 10\Laba10\Laba10\obj\Debug\Laba10.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс\ООП\лаба 10\Laba10\Laba10\bin\Debug\Laba10.exe
+D:\Учеба\2 курс\ООП\лаба 10\Laba10\Laba10\bin\Debug\Laba10.pdb
+D:\Учеба\2 курс\ООП\лаба 10\Laba10\Laba10\obj\Debug\Laba10.exe
+D:\Учеба\2 курс\ООП\лаба 10\Laba10\Laba10\obj\Debug\Laba10.pdb
+D:\Учеба\2 курс\ООП\лаба 10\Laba10\Laba10\obj\Debug\Laba10.csproj.AssemblyReference.cache
+E:\даниил\лаба 10\Laba10\Laba10\bin\Debug\Laba10.exe
+E:\даниил\лаба 10\Laba10\Laba10\bin\Debug\Laba10.pdb
+E:\даниил\лаба 10\Laba10\Laba10\obj\Debug\Laba10.csprojAssemblyReference.cache
+E:\даниил\лаба 10\Laba10\Laba10\obj\Debug\Laba10.csproj.CoreCompileInputs.cache
+E:\даниил\лаба 10\Laba10\Laba10\obj\Debug\Laba10.exe
+E:\даниил\лаба 10\Laba10\Laba10\obj\Debug\Laba10.pdb

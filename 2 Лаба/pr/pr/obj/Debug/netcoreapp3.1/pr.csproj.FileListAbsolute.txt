@@ -1,0 +1,39 @@
+C:\Users\Asus\source\repos\Lab2\pr\pr\bin\Debug\netcoreapp3.1\pr.exe
+C:\Users\Asus\source\repos\Lab2\pr\pr\bin\Debug\netcoreapp3.1\pr.deps.json
+C:\Users\Asus\source\repos\Lab2\pr\pr\bin\Debug\netcoreapp3.1\pr.runtimeconfig.json
+C:\Users\Asus\source\repos\Lab2\pr\pr\bin\Debug\netcoreapp3.1\pr.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\Lab2\pr\pr\bin\Debug\netcoreapp3.1\pr.dll
+C:\Users\Asus\source\repos\Lab2\pr\pr\bin\Debug\netcoreapp3.1\pr.pdb
+C:\Users\Asus\source\repos\Lab2\pr\pr\obj\Debug\netcoreapp3.1\pr.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Lab2\pr\pr\obj\Debug\netcoreapp3.1\pr.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Lab2\pr\pr\obj\Debug\netcoreapp3.1\pr.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Lab2\pr\pr\obj\Debug\netcoreapp3.1\pr.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Lab2\pr\pr\obj\Debug\netcoreapp3.1\pr.dll
+C:\Users\Asus\source\repos\Lab2\pr\pr\obj\Debug\netcoreapp3.1\pr.pdb
+C:\Users\Asus\source\repos\Lab2\pr\pr\obj\Debug\netcoreapp3.1\pr.genruntimeconfig.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab2\pr\pr\bin\Debug\netcoreapp3.1\pr.exe
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab2\pr\pr\bin\Debug\netcoreapp3.1\pr.deps.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab2\pr\pr\bin\Debug\netcoreapp3.1\pr.runtimeconfig.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab2\pr\pr\bin\Debug\netcoreapp3.1\pr.runtimeconfig.dev.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab2\pr\pr\bin\Debug\netcoreapp3.1\pr.dll
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab2\pr\pr\bin\Debug\netcoreapp3.1\pr.pdb
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab2\pr\pr\obj\Debug\netcoreapp3.1\pr.csprojAssemblyReference.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab2\pr\pr\obj\Debug\netcoreapp3.1\pr.AssemblyInfoInputs.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab2\pr\pr\obj\Debug\netcoreapp3.1\pr.AssemblyInfo.cs
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab2\pr\pr\obj\Debug\netcoreapp3.1\pr.csproj.CoreCompileInputs.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab2\pr\pr\obj\Debug\netcoreapp3.1\pr.dll
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab2\pr\pr\obj\Debug\netcoreapp3.1\pr.pdb
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab2\pr\pr\obj\Debug\netcoreapp3.1\pr.genruntimeconfig.cache
+D:\курс 2\ООП\2 Лаба\pr\pr\bin\Debug\netcoreapp3.1\pr.exe
+D:\курс 2\ООП\2 Лаба\pr\pr\bin\Debug\netcoreapp3.1\pr.deps.json
+D:\курс 2\ООП\2 Лаба\pr\pr\bin\Debug\netcoreapp3.1\pr.runtimeconfig.json
+D:\курс 2\ООП\2 Лаба\pr\pr\bin\Debug\netcoreapp3.1\pr.runtimeconfig.dev.json
+D:\курс 2\ООП\2 Лаба\pr\pr\bin\Debug\netcoreapp3.1\pr.dll
+D:\курс 2\ООП\2 Лаба\pr\pr\bin\Debug\netcoreapp3.1\pr.pdb
+D:\курс 2\ООП\2 Лаба\pr\pr\obj\Debug\netcoreapp3.1\pr.csprojAssemblyReference.cache
+D:\курс 2\ООП\2 Лаба\pr\pr\obj\Debug\netcoreapp3.1\pr.AssemblyInfoInputs.cache
+D:\курс 2\ООП\2 Лаба\pr\pr\obj\Debug\netcoreapp3.1\pr.AssemblyInfo.cs
+D:\курс 2\ООП\2 Лаба\pr\pr\obj\Debug\netcoreapp3.1\pr.csproj.CoreCompileInputs.cache
+D:\курс 2\ООП\2 Лаба\pr\pr\obj\Debug\netcoreapp3.1\pr.dll
+D:\курс 2\ООП\2 Лаба\pr\pr\obj\Debug\netcoreapp3.1\pr.pdb
+D:\курс 2\ООП\2 Лаба\pr\pr\obj\Debug\netcoreapp3.1\pr.genruntimeconfig.cache

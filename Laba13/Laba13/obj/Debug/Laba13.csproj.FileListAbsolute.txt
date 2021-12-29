@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\Hovanella-OOP-1semestr-main\Laba13\Laba13\bin\Debug\Laba13.exe
+C:\Users\Admin\Desktop\Hovanella-OOP-1semestr-main\Laba13\Laba13\bin\Debug\Laba13.pdb
+C:\Users\Admin\Desktop\Hovanella-OOP-1semestr-main\Laba13\Laba13\obj\Debug\Laba13.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Hovanella-OOP-1semestr-main\Laba13\Laba13\obj\Debug\Laba13.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Hovanella-OOP-1semestr-main\Laba13\Laba13\obj\Debug\Laba13.exe
+C:\Users\Admin\Desktop\Hovanella-OOP-1semestr-main\Laba13\Laba13\obj\Debug\Laba13.pdb
+D:\курс 2\ООП\Laba13\Laba13\bin\Debug\Laba13.exe
+D:\курс 2\ООП\Laba13\Laba13\bin\Debug\Laba13.pdb
+D:\курс 2\ООП\Laba13\Laba13\obj\Debug\Laba13.csprojAssemblyReference.cache
+D:\курс 2\ООП\Laba13\Laba13\obj\Debug\Laba13.csproj.CoreCompileInputs.cache
+D:\курс 2\ООП\Laba13\Laba13\obj\Debug\Laba13.exe
+D:\курс 2\ООП\Laba13\Laba13\obj\Debug\Laba13.pdb

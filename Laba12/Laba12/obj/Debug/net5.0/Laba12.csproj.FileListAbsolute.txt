@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\Hovanella-OOP-1semestr-main\Laba12\Laba12\obj\Debug\net5.0\Laba12.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Hovanella-OOP-1semestr-main\Laba12\Laba12\obj\Debug\net5.0\Laba12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Hovanella-OOP-1semestr-main\Laba12\Laba12\obj\Debug\net5.0\Laba12.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Hovanella-OOP-1semestr-main\Laba12\Laba12\obj\Debug\net5.0\Laba12.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Hovanella-OOP-1semestr-main\Laba12\Laba12\obj\Debug\net5.0\Laba12.csproj.CoreCompileInputs.cache

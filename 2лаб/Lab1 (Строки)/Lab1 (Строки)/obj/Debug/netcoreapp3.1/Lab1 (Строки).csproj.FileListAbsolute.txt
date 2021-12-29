@@ -1,0 +1,40 @@
+C:\Users\Makar\source\repos\Lab1 (Строки)\Lab1 (Строки)\bin\Debug\netcoreapp3.1\Lab1 (Строки).exe
+C:\Users\Makar\source\repos\Lab1 (Строки)\Lab1 (Строки)\bin\Debug\netcoreapp3.1\Lab1 (Строки).deps.json
+C:\Users\Makar\source\repos\Lab1 (Строки)\Lab1 (Строки)\bin\Debug\netcoreapp3.1\Lab1 (Строки).runtimeconfig.json
+C:\Users\Makar\source\repos\Lab1 (Строки)\Lab1 (Строки)\bin\Debug\netcoreapp3.1\Lab1 (Строки).runtimeconfig.dev.json
+C:\Users\Makar\source\repos\Lab1 (Строки)\Lab1 (Строки)\bin\Debug\netcoreapp3.1\Lab1 (Строки).dll
+C:\Users\Makar\source\repos\Lab1 (Строки)\Lab1 (Строки)\bin\Debug\netcoreapp3.1\Lab1 (Строки).pdb
+C:\Users\Makar\source\repos\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).csprojAssemblyReference.cache
+C:\Users\Makar\source\repos\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).AssemblyInfoInputs.cache
+C:\Users\Makar\source\repos\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).AssemblyInfo.cs
+C:\Users\Makar\source\repos\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).csproj.CoreCompileInputs.cache
+C:\Users\Makar\source\repos\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).dll
+C:\Users\Makar\source\repos\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).pdb
+C:\Users\Makar\source\repos\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).genruntimeconfig.cache
+D:\ОАП\1 Лаба\Lab1 (Строки)\Lab1 (Строки)\bin\Debug\netcoreapp3.1\Lab1 (Строки).exe
+D:\ОАП\1 Лаба\Lab1 (Строки)\Lab1 (Строки)\bin\Debug\netcoreapp3.1\Lab1 (Строки).deps.json
+D:\ОАП\1 Лаба\Lab1 (Строки)\Lab1 (Строки)\bin\Debug\netcoreapp3.1\Lab1 (Строки).runtimeconfig.json
+D:\ОАП\1 Лаба\Lab1 (Строки)\Lab1 (Строки)\bin\Debug\netcoreapp3.1\Lab1 (Строки).runtimeconfig.dev.json
+D:\ОАП\1 Лаба\Lab1 (Строки)\Lab1 (Строки)\bin\Debug\netcoreapp3.1\Lab1 (Строки).dll
+D:\ОАП\1 Лаба\Lab1 (Строки)\Lab1 (Строки)\bin\Debug\netcoreapp3.1\Lab1 (Строки).pdb
+D:\ОАП\1 Лаба\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).csproj.AssemblyReference.cache
+D:\ОАП\1 Лаба\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).GeneratedMSBuildEditorConfig.editorconfig
+D:\ОАП\1 Лаба\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).AssemblyInfoInputs.cache
+D:\ОАП\1 Лаба\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).AssemblyInfo.cs
+D:\ОАП\1 Лаба\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).csproj.CoreCompileInputs.cache
+D:\ОАП\1 Лаба\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).dll
+D:\ОАП\1 Лаба\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).pdb
+D:\ОАП\1 Лаба\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).genruntimeconfig.cache
+D:\курс 2\ООП\2лаб\Lab1 (Строки)\Lab1 (Строки)\bin\Debug\netcoreapp3.1\Lab1 (Строки).exe
+D:\курс 2\ООП\2лаб\Lab1 (Строки)\Lab1 (Строки)\bin\Debug\netcoreapp3.1\Lab1 (Строки).deps.json
+D:\курс 2\ООП\2лаб\Lab1 (Строки)\Lab1 (Строки)\bin\Debug\netcoreapp3.1\Lab1 (Строки).runtimeconfig.json
+D:\курс 2\ООП\2лаб\Lab1 (Строки)\Lab1 (Строки)\bin\Debug\netcoreapp3.1\Lab1 (Строки).runtimeconfig.dev.json
+D:\курс 2\ООП\2лаб\Lab1 (Строки)\Lab1 (Строки)\bin\Debug\netcoreapp3.1\Lab1 (Строки).dll
+D:\курс 2\ООП\2лаб\Lab1 (Строки)\Lab1 (Строки)\bin\Debug\netcoreapp3.1\Lab1 (Строки).pdb
+D:\курс 2\ООП\2лаб\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).csprojAssemblyReference.cache
+D:\курс 2\ООП\2лаб\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).AssemblyInfoInputs.cache
+D:\курс 2\ООП\2лаб\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).AssemblyInfo.cs
+D:\курс 2\ООП\2лаб\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).csproj.CoreCompileInputs.cache
+D:\курс 2\ООП\2лаб\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).dll
+D:\курс 2\ООП\2лаб\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).pdb
+D:\курс 2\ООП\2лаб\Lab1 (Строки)\Lab1 (Строки)\obj\Debug\netcoreapp3.1\Lab1 (Строки).genruntimeconfig.cache

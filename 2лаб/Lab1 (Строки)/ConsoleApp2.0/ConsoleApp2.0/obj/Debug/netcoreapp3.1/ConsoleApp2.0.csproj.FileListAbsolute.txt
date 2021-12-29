@@ -1,0 +1,14 @@
+D:\ОАП\1 Лаба\Lab1 (Строки)\ConsoleApp2.0\ConsoleApp2.0\obj\Debug\netcoreapp3.1\ConsoleApp2.0.csproj.AssemblyReference.cache
+D:\ОАП\1 Лаба\Lab1 (Строки)\ConsoleApp2.0\ConsoleApp2.0\obj\Debug\netcoreapp3.1\ConsoleApp2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОАП\1 Лаба\Lab1 (Строки)\ConsoleApp2.0\ConsoleApp2.0\obj\Debug\netcoreapp3.1\ConsoleApp2.0.AssemblyInfoInputs.cache
+D:\ОАП\1 Лаба\Lab1 (Строки)\ConsoleApp2.0\ConsoleApp2.0\obj\Debug\netcoreapp3.1\ConsoleApp2.0.AssemblyInfo.cs
+D:\ОАП\1 Лаба\Lab1 (Строки)\ConsoleApp2.0\ConsoleApp2.0\obj\Debug\netcoreapp3.1\ConsoleApp2.0.csproj.CoreCompileInputs.cache
+D:\ОАП\1 Лаба\Lab1 (Строки)\ConsoleApp2.0\ConsoleApp2.0\bin\Debug\netcoreapp3.1\ConsoleApp2.0.exe
+D:\ОАП\1 Лаба\Lab1 (Строки)\ConsoleApp2.0\ConsoleApp2.0\bin\Debug\netcoreapp3.1\ConsoleApp2.0.deps.json
+D:\ОАП\1 Лаба\Lab1 (Строки)\ConsoleApp2.0\ConsoleApp2.0\bin\Debug\netcoreapp3.1\ConsoleApp2.0.runtimeconfig.json
+D:\ОАП\1 Лаба\Lab1 (Строки)\ConsoleApp2.0\ConsoleApp2.0\bin\Debug\netcoreapp3.1\ConsoleApp2.0.runtimeconfig.dev.json
+D:\ОАП\1 Лаба\Lab1 (Строки)\ConsoleApp2.0\ConsoleApp2.0\bin\Debug\netcoreapp3.1\ConsoleApp2.0.dll
+D:\ОАП\1 Лаба\Lab1 (Строки)\ConsoleApp2.0\ConsoleApp2.0\bin\Debug\netcoreapp3.1\ConsoleApp2.0.pdb
+D:\ОАП\1 Лаба\Lab1 (Строки)\ConsoleApp2.0\ConsoleApp2.0\obj\Debug\netcoreapp3.1\ConsoleApp2.0.dll
+D:\ОАП\1 Лаба\Lab1 (Строки)\ConsoleApp2.0\ConsoleApp2.0\obj\Debug\netcoreapp3.1\ConsoleApp2.0.pdb
+D:\ОАП\1 Лаба\Lab1 (Строки)\ConsoleApp2.0\ConsoleApp2.0\obj\Debug\netcoreapp3.1\ConsoleApp2.0.genruntimeconfig.cache

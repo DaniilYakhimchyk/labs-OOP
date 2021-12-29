@@ -1,0 +1,6 @@
+D:\Учеба\2 курс\ООП\лаба 9\Laba9\Laba9\bin\Debug\Laba9.exe
+D:\Учеба\2 курс\ООП\лаба 9\Laba9\Laba9\bin\Debug\Laba9.pdb
+D:\Учеба\2 курс\ООП\лаба 9\Laba9\Laba9\obj\Debug\Laba9.csproj.AssemblyReference.cache
+D:\Учеба\2 курс\ООП\лаба 9\Laba9\Laba9\obj\Debug\Laba9.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс\ООП\лаба 9\Laba9\Laba9\obj\Debug\Laba9.exe
+D:\Учеба\2 курс\ООП\лаба 9\Laba9\Laba9\obj\Debug\Laba9.pdb

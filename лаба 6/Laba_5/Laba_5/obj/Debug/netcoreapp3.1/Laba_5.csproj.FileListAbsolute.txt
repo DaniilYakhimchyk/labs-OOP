@@ -1,0 +1,54 @@
+D:\Учеба\2 курс\ООП\лаба 5\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.exe
+D:\Учеба\2 курс\ООП\лаба 5\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.deps.json
+D:\Учеба\2 курс\ООП\лаба 5\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.runtimeconfig.json
+D:\Учеба\2 курс\ООП\лаба 5\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.runtimeconfig.dev.json
+D:\Учеба\2 курс\ООП\лаба 5\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.dll
+D:\Учеба\2 курс\ООП\лаба 5\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.pdb
+D:\Учеба\2 курс\ООП\лаба 5\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.csproj.AssemblyReference.cache
+D:\Учеба\2 курс\ООП\лаба 5\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\2 курс\ООП\лаба 5\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.AssemblyInfoInputs.cache
+D:\Учеба\2 курс\ООП\лаба 5\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.AssemblyInfo.cs
+D:\Учеба\2 курс\ООП\лаба 5\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс\ООП\лаба 5\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.dll
+D:\Учеба\2 курс\ООП\лаба 5\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.pdb
+D:\Учеба\2 курс\ООП\лаба 5\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.genruntimeconfig.cache
+D:\Учеба\2 курс\ООП\лаба 6\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.exe
+D:\Учеба\2 курс\ООП\лаба 6\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.deps.json
+D:\Учеба\2 курс\ООП\лаба 6\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.runtimeconfig.json
+D:\Учеба\2 курс\ООП\лаба 6\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.runtimeconfig.dev.json
+D:\Учеба\2 курс\ООП\лаба 6\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.dll
+D:\Учеба\2 курс\ООП\лаба 6\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.pdb
+D:\Учеба\2 курс\ООП\лаба 6\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\2 курс\ООП\лаба 6\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.AssemblyInfoInputs.cache
+D:\Учеба\2 курс\ООП\лаба 6\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.AssemblyInfo.cs
+D:\Учеба\2 курс\ООП\лаба 6\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс\ООП\лаба 6\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.dll
+D:\Учеба\2 курс\ООП\лаба 6\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.pdb
+D:\Учеба\2 курс\ООП\лаба 6\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.genruntimeconfig.cache
+F:\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.exe
+F:\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.deps.json
+F:\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.runtimeconfig.json
+F:\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.runtimeconfig.dev.json
+F:\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.dll
+F:\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.pdb
+F:\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.csprojAssemblyReference.cache
+F:\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.AssemblyInfoInputs.cache
+F:\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.AssemblyInfo.cs
+F:\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.csproj.CoreCompileInputs.cache
+F:\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.dll
+F:\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.pdb
+F:\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.genruntimeconfig.cache
+D:\Учеба\2 курс\ООП\лаба 6\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\даниил\лаба 6\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.exe
+C:\Users\Admin\Desktop\даниил\лаба 6\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.deps.json
+C:\Users\Admin\Desktop\даниил\лаба 6\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.runtimeconfig.json
+C:\Users\Admin\Desktop\даниил\лаба 6\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\даниил\лаба 6\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.dll
+C:\Users\Admin\Desktop\даниил\лаба 6\Laba_5\Laba_5\bin\Debug\netcoreapp3.1\Laba_5.pdb
+C:\Users\Admin\Desktop\даниил\лаба 6\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\даниил\лаба 6\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\даниил\лаба 6\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.AssemblyInfo.cs
+C:\Users\Admin\Desktop\даниил\лаба 6\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\даниил\лаба 6\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.dll
+C:\Users\Admin\Desktop\даниил\лаба 6\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.pdb
+C:\Users\Admin\Desktop\даниил\лаба 6\Laba_5\Laba_5\obj\Debug\netcoreapp3.1\Laba_5.genruntimeconfig.cache

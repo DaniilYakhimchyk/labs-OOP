@@ -1,0 +1,27 @@
+D:\ОАП\1 Лаба\Lab1(массивы)\Lab1(массивы)\bin\Debug\netcoreapp3.1\Lab1(массивы).exe
+D:\ОАП\1 Лаба\Lab1(массивы)\Lab1(массивы)\bin\Debug\netcoreapp3.1\Lab1(массивы).deps.json
+D:\ОАП\1 Лаба\Lab1(массивы)\Lab1(массивы)\bin\Debug\netcoreapp3.1\Lab1(массивы).runtimeconfig.json
+D:\ОАП\1 Лаба\Lab1(массивы)\Lab1(массивы)\bin\Debug\netcoreapp3.1\Lab1(массивы).runtimeconfig.dev.json
+D:\ОАП\1 Лаба\Lab1(массивы)\Lab1(массивы)\bin\Debug\netcoreapp3.1\Lab1(массивы).dll
+D:\ОАП\1 Лаба\Lab1(массивы)\Lab1(массивы)\bin\Debug\netcoreapp3.1\Lab1(массивы).pdb
+D:\ОАП\1 Лаба\Lab1(массивы)\Lab1(массивы)\obj\Debug\netcoreapp3.1\Lab1(массивы).csproj.AssemblyReference.cache
+D:\ОАП\1 Лаба\Lab1(массивы)\Lab1(массивы)\obj\Debug\netcoreapp3.1\Lab1(массивы).GeneratedMSBuildEditorConfig.editorconfig
+D:\ОАП\1 Лаба\Lab1(массивы)\Lab1(массивы)\obj\Debug\netcoreapp3.1\Lab1(массивы).AssemblyInfoInputs.cache
+D:\ОАП\1 Лаба\Lab1(массивы)\Lab1(массивы)\obj\Debug\netcoreapp3.1\Lab1(массивы).AssemblyInfo.cs
+D:\ОАП\1 Лаба\Lab1(массивы)\Lab1(массивы)\obj\Debug\netcoreapp3.1\Lab1(массивы).csproj.CoreCompileInputs.cache
+D:\ОАП\1 Лаба\Lab1(массивы)\Lab1(массивы)\obj\Debug\netcoreapp3.1\Lab1(массивы).dll
+D:\ОАП\1 Лаба\Lab1(массивы)\Lab1(массивы)\obj\Debug\netcoreapp3.1\Lab1(массивы).pdb
+D:\ОАП\1 Лаба\Lab1(массивы)\Lab1(массивы)\obj\Debug\netcoreapp3.1\Lab1(массивы).genruntimeconfig.cache
+D:\курс 2\ООП\1 Лаба\Lab1(массивы)\Lab1(массивы)\bin\Debug\netcoreapp3.1\Lab1(массивы).exe
+D:\курс 2\ООП\1 Лаба\Lab1(массивы)\Lab1(массивы)\bin\Debug\netcoreapp3.1\Lab1(массивы).deps.json
+D:\курс 2\ООП\1 Лаба\Lab1(массивы)\Lab1(массивы)\bin\Debug\netcoreapp3.1\Lab1(массивы).runtimeconfig.json
+D:\курс 2\ООП\1 Лаба\Lab1(массивы)\Lab1(массивы)\bin\Debug\netcoreapp3.1\Lab1(массивы).runtimeconfig.dev.json
+D:\курс 2\ООП\1 Лаба\Lab1(массивы)\Lab1(массивы)\bin\Debug\netcoreapp3.1\Lab1(массивы).dll
+D:\курс 2\ООП\1 Лаба\Lab1(массивы)\Lab1(массивы)\bin\Debug\netcoreapp3.1\Lab1(массивы).pdb
+D:\курс 2\ООП\1 Лаба\Lab1(массивы)\Lab1(массивы)\obj\Debug\netcoreapp3.1\Lab1(массивы).csprojAssemblyReference.cache
+D:\курс 2\ООП\1 Лаба\Lab1(массивы)\Lab1(массивы)\obj\Debug\netcoreapp3.1\Lab1(массивы).AssemblyInfoInputs.cache
+D:\курс 2\ООП\1 Лаба\Lab1(массивы)\Lab1(массивы)\obj\Debug\netcoreapp3.1\Lab1(массивы).AssemblyInfo.cs
+D:\курс 2\ООП\1 Лаба\Lab1(массивы)\Lab1(массивы)\obj\Debug\netcoreapp3.1\Lab1(массивы).csproj.CoreCompileInputs.cache
+D:\курс 2\ООП\1 Лаба\Lab1(массивы)\Lab1(массивы)\obj\Debug\netcoreapp3.1\Lab1(массивы).dll
+D:\курс 2\ООП\1 Лаба\Lab1(массивы)\Lab1(массивы)\obj\Debug\netcoreapp3.1\Lab1(массивы).pdb
+D:\курс 2\ООП\1 Лаба\Lab1(массивы)\Lab1(массивы)\obj\Debug\netcoreapp3.1\Lab1(массивы).genruntimeconfig.cache

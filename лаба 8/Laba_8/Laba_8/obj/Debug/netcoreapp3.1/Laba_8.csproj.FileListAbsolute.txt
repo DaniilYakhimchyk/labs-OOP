@@ -1,0 +1,27 @@
+D:\Учеба\2 курс\ООП\лаба 8\Laba_8\Laba_8\bin\Debug\netcoreapp3.1\Laba_8.exe
+D:\Учеба\2 курс\ООП\лаба 8\Laba_8\Laba_8\bin\Debug\netcoreapp3.1\Laba_8.deps.json
+D:\Учеба\2 курс\ООП\лаба 8\Laba_8\Laba_8\bin\Debug\netcoreapp3.1\Laba_8.runtimeconfig.json
+D:\Учеба\2 курс\ООП\лаба 8\Laba_8\Laba_8\bin\Debug\netcoreapp3.1\Laba_8.runtimeconfig.dev.json
+D:\Учеба\2 курс\ООП\лаба 8\Laba_8\Laba_8\bin\Debug\netcoreapp3.1\Laba_8.dll
+D:\Учеба\2 курс\ООП\лаба 8\Laba_8\Laba_8\bin\Debug\netcoreapp3.1\Laba_8.pdb
+D:\Учеба\2 курс\ООП\лаба 8\Laba_8\Laba_8\obj\Debug\netcoreapp3.1\Laba_8.csproj.AssemblyReference.cache
+D:\Учеба\2 курс\ООП\лаба 8\Laba_8\Laba_8\obj\Debug\netcoreapp3.1\Laba_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\2 курс\ООП\лаба 8\Laba_8\Laba_8\obj\Debug\netcoreapp3.1\Laba_8.AssemblyInfoInputs.cache
+D:\Учеба\2 курс\ООП\лаба 8\Laba_8\Laba_8\obj\Debug\netcoreapp3.1\Laba_8.AssemblyInfo.cs
+D:\Учеба\2 курс\ООП\лаба 8\Laba_8\Laba_8\obj\Debug\netcoreapp3.1\Laba_8.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс\ООП\лаба 8\Laba_8\Laba_8\obj\Debug\netcoreapp3.1\Laba_8.dll
+D:\Учеба\2 курс\ООП\лаба 8\Laba_8\Laba_8\obj\Debug\netcoreapp3.1\Laba_8.pdb
+D:\Учеба\2 курс\ООП\лаба 8\Laba_8\Laba_8\obj\Debug\netcoreapp3.1\Laba_8.genruntimeconfig.cache
+C:\Users\Admin\Desktop\даниил\лаба 8\Laba_8\Laba_8\bin\Debug\netcoreapp3.1\Laba_8.exe
+C:\Users\Admin\Desktop\даниил\лаба 8\Laba_8\Laba_8\bin\Debug\netcoreapp3.1\Laba_8.deps.json
+C:\Users\Admin\Desktop\даниил\лаба 8\Laba_8\Laba_8\bin\Debug\netcoreapp3.1\Laba_8.runtimeconfig.json
+C:\Users\Admin\Desktop\даниил\лаба 8\Laba_8\Laba_8\bin\Debug\netcoreapp3.1\Laba_8.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\даниил\лаба 8\Laba_8\Laba_8\bin\Debug\netcoreapp3.1\Laba_8.dll
+C:\Users\Admin\Desktop\даниил\лаба 8\Laba_8\Laba_8\bin\Debug\netcoreapp3.1\Laba_8.pdb
+C:\Users\Admin\Desktop\даниил\лаба 8\Laba_8\Laba_8\obj\Debug\netcoreapp3.1\Laba_8.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\даниил\лаба 8\Laba_8\Laba_8\obj\Debug\netcoreapp3.1\Laba_8.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\даниил\лаба 8\Laba_8\Laba_8\obj\Debug\netcoreapp3.1\Laba_8.AssemblyInfo.cs
+C:\Users\Admin\Desktop\даниил\лаба 8\Laba_8\Laba_8\obj\Debug\netcoreapp3.1\Laba_8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\даниил\лаба 8\Laba_8\Laba_8\obj\Debug\netcoreapp3.1\Laba_8.dll
+C:\Users\Admin\Desktop\даниил\лаба 8\Laba_8\Laba_8\obj\Debug\netcoreapp3.1\Laba_8.pdb
+C:\Users\Admin\Desktop\даниил\лаба 8\Laba_8\Laba_8\obj\Debug\netcoreapp3.1\Laba_8.genruntimeconfig.cache
